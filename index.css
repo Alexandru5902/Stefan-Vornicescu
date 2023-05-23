@@ -1,0 +1,15 @@
+html,body{
+    font-family:'Poppins';
+}
+.header-img-about{
+    background:url('./slider1\ 1.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    min-height:30vh;
+}
+.background-color{
+    background-color:#EB6753;
+}
+.background-color-pal{
+    background-color:#ff9686;
+}
